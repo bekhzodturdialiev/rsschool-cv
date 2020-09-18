@@ -1,0 +1,55 @@
+# Bekhzod Turdialiev
+
+## Contacts
+
+- **e-mail:** [bekhzodturdialiev@gmail.com](mailto:bekhzodturdialiev@gmail.com)
+- **phone:** +998 (90) 3298043
+- **github:** [@kiral439](https://github.com/kiral439)
+- **telegram:** [@BekhzodTurdialiev](https://t.me/BekhzodTurdialiev)
+
+## Profile
+
+I love coding. I can't do anything but coding. I have gained some great experience as a software developer in university. I have built several projects as part of my university curriculum.
+
+## Skills
+
+- Java
+- PHP(Laravel)
+- Python(Django)
+- JavaScript(Vue.js, React.js)
+- Git, Gulp, Webpack
+
+## Code Sample
+
+```javascript
+fetch("http://localhost:3000/api/banners?country=SG")
+  .then(statusCheck)
+  .then((response) => response.json())
+  .then((data) => {
+    console.log("request succeeded with JSON response", data);
+  })
+  .catch((error) => {
+    console.log("request failed", error);
+  });
+```
+
+## Work Experience
+
+I have completed several projects in university.
+
+- [Inventory Management System](https://github.com/kiral439/InventoryManagement) - built using Java language, Struts2 framework and Hibernate.
+- [Bank ATM System](https://github.com/kiral439/Bank-App) - built using Java Swing.
+- [To-do List in React](https://github.com/kiral439/to-do-list-react)- React.js.
+- [To-do List in Vue](https://github.com/kiral439/to-do-list-vue) - Vue.js.
+
+## Education
+
+- **Nanjing University of Information Science and Technology(Nanjing, China)**  
+  Bachelor of Science in Software Engineering | September 2017 - June 2021
+
+- **Professional College of Computer Technologies Named after H.Z.Kalanov(Tashkent, Uzbekistan)**  
+  Associate of Science in Information and Communication Systems | September 2009 - June 2012
+
+## English
+
+B2 (Upper intermediate)
