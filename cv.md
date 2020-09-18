@@ -52,4 +52,4 @@ I have completed several projects in university.
 
 ## English
 
-B2 (Upper intermediate)
+**B2** (Upper intermediate)
