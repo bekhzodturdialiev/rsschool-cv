@@ -44,10 +44,10 @@ I have completed several projects in university.
 
 ## Education
 
-- **Nanjing University of Information Science and Technology(Nanjing, China)**  
+- **Nanjing University of Information Science and Technology (Nanjing, China)**  
   Bachelor of Science in Software Engineering | September 2017 - June 2021
 
-- **Professional College of Computer Technologies Named after H.Z.Kalanov(Tashkent, Uzbekistan)**  
+- **Professional College of Computer Technologies Named after H.Z.Kalanov (Tashkent, Uzbekistan)**  
   Associate of Science in Information and Communication Systems | September 2009 - June 2012
 
 ## English
