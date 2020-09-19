@@ -1,0 +1,137 @@
+body {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  min-height: 800px;
+  font-size: 16px;
+}
+
+b {
+  font-weight: 700;
+}
+
+.wrapper {
+  background: url("../img/bg.svg");
+  position: relative;
+  -webkit-box-shadow: 2px 2px 22px -8px rgba(112, 112, 112, 1);
+  -moz-box-shadow: 2px 2px 22px -8px rgba(112, 112, 112, 1);
+  box-shadow: 2px 2px 22px -8px rgba(112, 112, 112, 1);
+}
+
+.container {
+  width: 630px;
+  display: flex;
+}
+
+.header__avatar:after {
+  content: "";
+  display: block;
+  width: 224px;
+  height: 130px;
+  background-color: #ef735e;
+  opacity: 0.9;
+  border-top-left-radius: 120px;
+  border-top-right-radius: 120px;
+  border-bottom: 0;
+  position: absolute;
+  bottom: calc(100% - 100px);
+  right: -25.5px;
+  z-index: -1;
+}
+
+.header__avatar {
+  position: relative;
+  margin: 52px 50px 15px 65px;
+  z-index: 1;
+}
+
+.header__avatar img {
+  width: 172px;
+  height: 172px;
+  border-radius: 90px;
+}
+
+.header h1 {
+  font-size: 36px;
+  font-weight: 700;
+  margin: 71px 20px 6px 0;
+  color: #ec5136;
+}
+.header h2 {
+  color: #50595b;
+  font-weight: 500;
+}
+
+.aside {
+  padding: 0 20px 20px;
+  font-size: 12px;
+  color: #fff;
+  background: #4dd6c2;
+  margin-left: 36px;
+  width: 224px;
+  border-top-left-radius: 130px;
+  border-top-right-radius: 130px;
+}
+
+.aside h3 {
+  font-size: 22px;
+  margin: 60px 0 16px 0;
+  font-weight: 700;
+  text-align: center;
+}
+.aside .summary-text {
+  font-size: 30px;
+}
+
+.skill-list {
+  line-height: 1.2rem;
+}
+
+.skill-list li:before {
+  content: url("../img/done-24px.svg");
+  color: #fff;
+  margin-right: 5px;
+}
+
+.contact-list {
+  line-height: 1.2rem;
+}
+
+.section {
+  margin-left: 27px;
+  margin-right: 36px;
+}
+
+.article h2 {
+  color: #ec5648;
+}
+
+.article:first-child h2 {
+  font-weight: 700;
+  margin-top: 14px;
+}
+.article + .article h2 {
+  font-weight: 700;
+  margin-top: 40px;
+}
+
+.article__subject {
+  margin-top: 12px;
+}
+
+.article__subject span {
+  display: block;
+}
+
+.article__subject-name {
+  color: #2ecdb4;
+  font-size: 14px;
+}
+
+.article__subject-append {
+  margin-top: 5px;
+  color: #656d79;
+  font-size: 12px;
+}
