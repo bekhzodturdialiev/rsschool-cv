@@ -19,7 +19,14 @@ b {
   -moz-box-shadow: 2px 2px 22px -8px rgba(112, 112, 112, 1);
   box-shadow: 2px 2px 22px -8px rgba(112, 112, 112, 1);
 }
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+}
 .container {
   width: 630px;
   display: flex;
